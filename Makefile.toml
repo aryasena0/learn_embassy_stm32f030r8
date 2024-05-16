@@ -1,0 +1,3 @@
+[tasks.run-blinky]
+command = "cargo"
+args = ["r", "--bin", "blinky", "--release"]
